@@ -1,4 +1,8 @@
-## Hi there 👋
+# 🔮BruboCF
+
+I am a Computer Science student and technology enthusiast.
+
+
 
 <!--
 **BruboCF/BruboCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
