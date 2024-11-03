@@ -24,9 +24,9 @@ Estudante de Ciências da Computação na Universidade de Caxias do Sul (UCS). E
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruboCF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Línguas
 📗 Português: Fluente <br>
 📕 Inglês: Fluente
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruboCF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
